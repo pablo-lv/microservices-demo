@@ -1,0 +1,11 @@
+2023-01-30 20:20:01 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.4.1 with PID 23175 (/Users/pablo.lucas/Documents/develop/java-projects/microservices-demo/twitter-to-kafka-service/target/classes started by pablo.lucas in /Users/pablo.lucas/Documents/develop/java-projects/microservices-demo)
+2023-01-30 20:20:01 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-01-30 20:20:02 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.777 seconds (process running for 1.416)
+2023-01-30 20:20:02 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2023-01-30 20:20:02 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-01-30 20:22:25 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication using Java 17.0.4.1 with PID 23218 (/Users/pablo.lucas/Documents/develop/java-projects/microservices-demo/twitter-to-kafka-service/target/classes started by pablo.lucas in /Users/pablo.lucas/Documents/develop/java-projects/microservices-demo)
+2023-01-30 20:22:25 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to 1 default profile: "default"
+2023-01-30 20:22:26 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 0.841 seconds (process running for 1.389)
+2023-01-30 20:22:26 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - App starts...
+2023-01-30 20:22:26 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2023-01-30 20:22:26 [main] INFO  c.m.d.t.t.k.s.TwitterToKafkaServiceApplication - Starting
